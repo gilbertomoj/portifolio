@@ -37,8 +37,9 @@ export default function About() {
           <img
             className="object-cover rounded"
             alt="hero"
-            src="https://i.pinimg.com/originals/e0/b2/fa/e0b2fa5e758d0ea0a8f748fa4f100edb.jpg"
+            src="https://avatars.githubusercontent.com/u/62359000?v=4"
             // https://avatars.githubusercontent.com/u/62359000?v=4
+            //https://i.pinimg.com/originals/e0/b2/fa/e0b2fa5e758d0ea0a8f748fa4f100edb.jpg
           />
         </div>
       </div>

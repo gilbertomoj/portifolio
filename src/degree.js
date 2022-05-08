@@ -2,7 +2,7 @@ export const degrees = [
     {
         title: "Universidade Federal de Pernambuco",
         subtitle: "Sistemas de Informação",
-        data: "2020 - (Cursando)",
+        data: "2020 - 2024",
     },
     {
         title: "Start Recife",

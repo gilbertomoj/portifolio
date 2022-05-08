@@ -15,11 +15,11 @@ export default function About() {
             Fullstack Developer
           </h2>
           <p className="mb-8 leading-relaxed">
-            Estudante de programação, esforçado, curioso e
-            apaixonado pela área de tecnologia. Gosto de desafios
-            me adapto facilmente as mudanças tendo como
-            objetivo crescer tanto pessoalmente quanto
-            profissionalmente.
+            Programming student, hardworking, curious and
+            passionate about technology. I like challenges
+            I easily adapt to changes taking into account
+            aim to grow both personally and
+            professionally.
           </p>
           <div className="flex justify-center mt-5">
             <a href="https://github.com/gilbertomoj">

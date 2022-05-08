@@ -8,7 +8,7 @@ export default function Degree(){
           <div className="text-center mb-20">
             <BookOpenIcon className="w-10 inline-block mb-4 mt-3"/>
             <h1 className="sm:text-4xl text-3xl font-medium title-font text-white mb-4">
-              Formações
+              Degree
             </h1>
           </div>
           <div className="flex flex-wrap sm:w-3/6 sm:mx-auto">
